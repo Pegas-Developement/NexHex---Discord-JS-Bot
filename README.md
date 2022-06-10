@@ -8,7 +8,7 @@
 <br />
 <p align="center">
 <p align="center">
-  <a href="[https://github.com/GizmolabAI/DiscordBot-Flash](https://github.com/Pegas-Developement/NexHex-Discord-Bot)"></a>
+  <a href="[https://github.com/Pegas-Developement/NexHex-Discord-Bot]"></a>
 
 <h3 align="center">NexHex</h3>
   <p align="center">
@@ -52,7 +52,6 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -76,11 +75,6 @@ A Multipurpose Discord Bot with a Web Dashboard! With commands for Moderation | 
 **1.** Create A Discord Bot Application on [Discord Developer Portal](https://discord.com/developers/applications) and Get Your Bot Token!
 
 **2.** Create A [MongoDB](https://www.mongodb.com/cloud/atlas/lp/try2-in?utm_source=google&utm_campaign=gs_apac_india_search_core_brand_atlas_desktop&utm_term=mongodb%20web%20service&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624347&gclid=CjwKCAjw47eFBhA9EiwAy8kzNIxUxDVBfCKUmjLMNJ9JiWgkFauXv9LtC0cFG-qrmM-Vg5Y4RUG7IBoCHyUQAvD_BwE) Database and get its Connection Link. Checkout This GUIDE To know how to use MongoDB [GUIDE]([https://youtu.be/8no3SktqagY](https://www.mongodb.com/docs/manual/))
-
-**3.** Get Your free API Keys at 
-* [Memer Api](https://memer-api.js.org/docs?path=welcome/welcome) - For the image commands
-* [Tenor Gif](https://tenor.com/developer/keyregistration)
-* [top.gg](https://top.gg/) - You only need this if you have your bot on that website!
 
 
 **4.** Clone the repo
