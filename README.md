@@ -59,8 +59,10 @@
 A Multipurpose Discord Bot with a Web Dashboard! With commands for Moderation | Games | Activities | Utilities and more!
 
 ### Built With
-[![forthebadge](extras/made-with-node.js.svg)](https://nodejs.org/en/)
-[![forthebadge](extras/uses-mongo-db.svg)](https://www.mongodb.com/cloud/atlas/)
+
+
+<a href="https://nodejs.org/en/">Node.js</a>
+<a href="https://www.mongodb.com/">MongoDB</a>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -165,7 +167,3 @@ Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 [![Discord Server](https://img.shields.io/discord/834390097621286922.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/jDP2FbvCdk) 
-
-
-[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg
-[buymeacoffee]: https://www.buymeacoffee.com/g1zmo
